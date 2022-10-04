@@ -54,13 +54,13 @@ global.linkz = 'https://www.youtube.com/c/NenuxzBro'
 global.reactmoji = "😎" //ur menu react emoji
 global.themeemoji = "⚡" //ur theme emoji
 global.packname = "NENUX9.0 BOT BETA EDITION" //ur sticker watermark packname
-global.author = "DARK ALPHA" //ur sticker watermark author
+global.author = "nenux" //ur sticker watermark author
 global.footer = "NENUX9.0_ᴇᴅɪᴛɪᴏɴ"
 global.aliveimg ="https://i.postimg.cc/FRQZ3mt0/NENUX-BRO-NEW-LOGO-2-ND-EDITION.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
 global.gbyeimg = "https://i.postimg.cc/FRQZ3mt0/NENUX-BRO-NEW-LOGO-2-ND-EDITION.jpg"
-global.alivemsg = "HIII KOLLANE MK WENNE 😎\n@NENUX9.0"
+global.alivemsg = "HIII KOLLANE MK WENNE 😎\n@NENUX9.0 \n#kaalada \n#beelada \n#naalada"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
